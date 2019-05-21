@@ -3,7 +3,7 @@ package Assignements;
 public class Payment {
 
 	public static void main(String[] args) {
-
+// rajat
 	}
 
 }
